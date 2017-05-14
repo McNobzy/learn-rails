@@ -1,0 +1,6 @@
+to inistialize => git init
+To add => git add -A
+To commit => git commit -m "message"
+To add global repo
+=> git remote add origin "https://GIT_ORIGIN_REPO"
+Then push => git push -u origin master
