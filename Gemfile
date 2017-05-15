@@ -63,5 +63,5 @@ gem 'high_voltage'
 gem 'simple_form'
 group :development do
   gem 'better_errors'
-  gem 'rails_layouts'
+  gem 'rails_layout'
 end
